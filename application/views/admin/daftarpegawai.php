@@ -15,8 +15,6 @@
                         <h4 class="modal-title" id="myModalLabel">Tambah Data Pegawai</h4>
                     </div>
                     <div class="modal-body">
-
-
                         <!-- page content -->
                         <div class="col" role="main">
                             <div class="">
@@ -98,12 +96,6 @@
                             </li>
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-wrench"></i></a>
-                                <ul class="dropdown-menu" role="menu">
-                                    <li><a href="#">Settings 1</a>
-                                    </li>
-                                    <li><a href="#">Settings 2</a>
-                                    </li>
-                                </ul>
                             </li>
                             <li><a class="close-link"><i class="fa fa-close"></i></a>
                             </li>
